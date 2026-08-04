@@ -24,3 +24,37 @@ The objective was to answer these business questions using SQL and translate the
 3) Microsoft Excel (Charts)
 
 4) Microsoft PowerPoint
+
+**Database Overview :**
+
+The analysis was performed using multiple fact and dimension tables, including:
+
+1) dim_customer
+
+  Link :
+  https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/dim_customer.png
+
+2) dim_product
+
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/dim_product.png
+
+3) fact_sales_monthly
+
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/fact_sales_monthly.png
+
+4) fact_gross_price
+
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/fact_gross_price.png
+
+5) fact_manufacturing_cost
+
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/fact_manufacturing_cost.png
+
+6) fact_pre_invoice_deductions
+
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/fact_pre_invoice_deduction.png
