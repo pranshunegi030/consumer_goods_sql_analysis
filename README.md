@@ -31,8 +31,8 @@ The analysis was performed using multiple fact and dimension tables, including:
 
 1) dim_customer
 
-  Link :
-  https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/dim_customer.png
+   Link :
+   https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/dim_customer.png
 
 2) dim_product
 
