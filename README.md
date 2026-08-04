@@ -63,7 +63,7 @@ The analysis was performed using multiple fact and dimension tables, including:
 
 **1) Markets of Atliq Exclusive in the APAC Region :**
 
-Objective: Identify the markets where the customer Atliq Exclusive operates within the APAC region.
+Objective: Identified all APAC markets where AtliQ Exclusive operates to understand the company's regional footprint.
 
 Business Value: Helps management evaluate market coverage and identify opportunities for expansion within the APAC region.
 
@@ -90,4 +90,24 @@ Business Value: Helps identify which segments have the widest product offerings 
 Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/segment_unique_prod_count.sql
 
 Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/segment_unique_product_count.png
+
+**4) Segment-wise Product Expansion :**
+
+Objective: Measured the increase in unique products for each segment between 2020 and 2021.
+
+Business Value: Highlights the fastest-growing segments and supports investment and product development decisions.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/segment_unique_prod_count_increase.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/segment_unique_product_count_increase.png
+
+**5) Manufacturing Cost Analysis :**
+
+Objective: Identified the products with the highest and lowest manufacturing costs.
+
+Business Value: Enables cost optimization, pricing strategy evaluation, and profitability analysis.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/max_min_prod_manufacturing_cost.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/max_min_prod_manufacturing_cost.png
 
