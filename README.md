@@ -182,3 +182,7 @@ Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main
 9) Data Storytelling
 
 10) Business Insight Generation
+
+**Presentation :**
+
+The complete business presentation containing SQL outputs, visualizations, and business insights is available in the Presentation folder.
