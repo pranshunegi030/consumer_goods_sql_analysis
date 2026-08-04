@@ -161,3 +161,24 @@ Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/
 
 Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/top3_product_division.png
 
+**Key Skills Demonstrated :**
+
+1) Complex SQL Query Writing
+
+2) Multi-table Joins
+
+3) Common Table Expressions (CTEs)
+
+4) Window Functions (RANK, DENSE_RANK)
+
+5) Aggregate Functions
+
+6) CASE Statements
+
+7) Business Problem Solving
+
+8) Data Analysis
+
+9) Data Storytelling
+
+10) Business Insight Generation
