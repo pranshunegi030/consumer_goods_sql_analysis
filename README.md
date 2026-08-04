@@ -58,3 +58,21 @@ The analysis was performed using multiple fact and dimension tables, including:
 
    Link :
    https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Data%20Tables/fact_pre_invoice_deduction.png
+
+**Business Requests Solved :**
+
+**1) Markets of Atliq Exclusive in the APAC Region :**
+
+Identify the markets where the customer Atliq Exclusive operates within the APAC region.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/market_for_APAC_atliq_excl.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/market_for_apac_atliq_excl.png
+
+**2) Percentage Increase in Unique Products (2021 vs 2020) :**
+
+Calculate the percentage growth in unique products introduced in 2021 compared to 2020.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/unique_prod_pct_chg_20vs21.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/unq_prod_pct_chg_20vs21.png
