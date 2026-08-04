@@ -111,3 +111,53 @@ Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/
 
 Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/max_min_prod_manufacturing_cost.png
 
+**6) Customer Discount Analysis :**
+
+Objective: Retrieved the top five customers receiving the highest average pre-invoice discounts in the Indian market during FY2021.
+
+Business Value: Supports discount policy evaluation and helps identify high-value customer relationships.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/avg_pre_inv_disc_top5_cust.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/avg_pre_inv_disc_top5_cust.png
+
+**7) Monthly Gross Sales Trend :**
+
+Objective: Analyzed month-wise gross sales for AtliQ Exclusive.
+
+Business Value: Reveals seasonal trends, peak sales periods, and months requiring strategic attention.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/atliq_exc_gross_price.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/atliq_exc_gross_price.png
+
+**8) Quarterly Sales Performance :**
+
+Objective: Determined the fiscal quarter with the highest total sold quantity in FY2020.
+
+Business Value: Assists demand planning, inventory management, and production scheduling.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/2020_quarter_total_sales.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/2020_quarter_total_sales.png
+
+**9) Sales Channel Performance :**
+
+Objective: Evaluated gross sales contribution across different sales channels during FY2021.
+
+Business Value: Identifies the most effective sales channels and supports resource allocation decisions.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/gross_sales_per_channel.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/gross_sales_per_channel.png
+
+**10) Top Products by Division :**
+
+Objective: Ranked the top three products in each division based on total sold quantity during FY2021.
+
+Business Value: Helps stakeholders identify best-selling products, optimize inventory, and prioritize product strategies.
+
+Query : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/SQL%20Queries/top_3_products_division.sql
+
+Output : https://github.com/pranshunegi030/consumer_goods_sql_analysis/blob/main/Output%20Screenshots/top3_product_division.png
+
